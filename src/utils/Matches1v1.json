@@ -1,0 +1,362 @@
+[
+	{
+		"killer": "Trapper",
+		"map": "Suffocation Pit",
+		"firstHitTime": 68,
+		"totalChaseTime": 94
+	},
+	{
+		"killer": "Demogorgon",
+		"map": "Wreckers' Yard",
+		"firstHitTime": 47,
+		"totalChaseTime": 100
+	},
+	{
+		"killer": "Pig",
+		"map": "Wreckers' Yard",
+		"firstHitTime": 69,
+		"totalChaseTime": 104
+	},
+	{
+		"killer": "Pig",
+		"map": "Wreckers' Yard",
+		"firstHitTime": 24,
+		"totalChaseTime": 116
+	},
+	{
+		"killer": "Mastermind",
+		"map": "Coal Tower I",
+		"firstHitTime": 6,
+		"totalChaseTime": 32
+	},
+	{
+		"killer": "Mastermind",
+		"map": "Coal Tower I",
+		"firstHitTime": 139,
+		"totalChaseTime": 330
+	},
+	{
+		"killer": "Demogorgon",
+		"map": "Wreckers' Yard",
+		"firstHitTime": 110,
+		"totalChaseTime": 168
+	},
+	{
+		"killer": "Demogorgon",
+		"map": "Wreckers' Yard",
+		"firstHitTime": 25,
+		"totalChaseTime": 37
+	},
+	{
+		"killer": "Blight",
+		"map": "Suffocation Pit",
+		"firstHitTime": 47,
+		"totalChaseTime": 70 
+	},
+	{
+		"killer": "Wraith",
+		"map": "Coal Tower I",
+		"firstHitTime": 140,
+		"totalChaseTime": 210
+	},
+	{
+		"killer": "Wraith",
+		"map": "Coal Tower I",
+		"firstHitTime": 42,
+		"totalChaseTime": 63
+	},
+	{
+		"killer": "Blight",
+		"map": "Suffocation Pit",
+		"firstHitTime": 103,
+		"totalChaseTime": 199
+	},
+	{
+		"killer": "Blight",
+		"map": "Suffocation Pit",
+		"firstHitTime": 11,
+		"totalChaseTime": 26
+	},
+	{
+		"killer": "Dark Lord",
+		"map": "Wretched Shop",
+		"firstHitTime": 92,
+		"totalChaseTime": 128
+	},
+	{
+		"killer": "Dark Lord",
+		"map": "Wretched Shop",
+		"firstHitTime": 43,
+		"totalChaseTime": 95
+	},
+	{
+		"killer": "Demogorgon",
+		"map": "Wreckers' Yard",
+		"firstHitTime": 46,
+		"totalChaseTime": 56
+	},
+	{
+		"killer": "Wraith",
+		"map": "Coal Tower I",
+		"firstHitTime": 68,
+		"totalChaseTime": 108
+	},
+	{
+		"killer": "Blight",
+		"map": "Suffocation Pit",
+		"firstHitTime": 39,
+		"totalChaseTime": 52
+	},
+	{
+		"killer": "Blight",
+		"map": "Suffocation Pit",
+		"firstHitTime": 36,
+		"totalChaseTime": 119
+	},
+	{
+		"killer": "Wraith",
+		"map": "Coal Tower I",
+		"firstHitTime": 38,
+		"totalChaseTime": 81
+	},
+	{
+		"killer": "Wraith",
+		"map": "Coal Tower I",
+		"firstHitTime": 54,
+		"totalChaseTime": 77
+	},
+	{
+		"killer": "Lich",
+		"map": "Dead Dawg Saloon",
+		"firstHitTime": 13,
+		"totalChaseTime": 45
+	},
+	{
+		"killer": "Lich",
+		"map": "Dead Dawg Saloon",
+		"firstHitTime": 12,
+		"totalChaseTime": 26
+	},
+	{
+		"killer": "Oni",
+		"map": "Coal Tower I",
+		"firstHitTime": 58,
+		"totalChaseTime": 92
+	},
+	{
+		"killer": "Oni",
+		"map": "Coal Tower I",
+		"firstHitTime": 57,
+		"totalChaseTime": 97
+	},
+	{
+		"killer": "Demogorgon",
+		"map": "Wreckers' Yard",
+		"firstHitTime": 37,
+		"totalChaseTime": 57
+	},
+	{
+		"killer": "Demogorgon",
+		"map": "Wreckers' Yard",
+		"firstHitTime": 39,
+		"totalChaseTime": 62
+	},
+	{
+		"killer": "Blight",
+		"map": "Suffocation Pit",
+		"firstHitTime": 43,
+		"totalChaseTime": 127
+	},
+	{
+		"killer": "Blight",
+		"map": "Suffocation Pit",
+		"firstHitTime": 33,
+		"totalChaseTime": 53
+	},
+	{
+		"killer": "Lich",
+		"map": "Coal Tower I",
+		"firstHitTime": 24,
+		"totalChaseTime": 65
+	},
+	{
+		"killer": "Pig",
+		"map": "Wreckers' Yard",
+		"firstHitTime": 75,
+		"totalChaseTime": 120
+	},
+	{
+		"killer": "Pig",
+		"map": "Wreckers' Yard",
+		"firstHitTime": 68,
+		"totalChaseTime": 102
+	},
+	{
+		"killer": "Leatherface",
+		"map": "Wreckers' Yard",
+		"firstHitTime": 55,
+		"totalChaseTime": 55
+	},
+	{
+		"killer": "Wraith",
+		"map": "Coal Tower I",
+		"firstHitTime": 43,
+		"totalChaseTime": 78
+	},
+	{
+		"killer": "Leatherface",
+		"map": "Wreckers' Yard",
+		"firstHitTime": 145,
+		"totalChaseTime": 182
+	},
+	{
+		"killer": "Leatherface",
+		"map": "Wreckers' Yard",
+		"firstHitTime": 156,
+		"totalChaseTime": 156
+	},
+	{
+		"killer": "Wraith",
+		"map": "Coal Tower I",
+		"firstHitTime": 39,
+		"totalChaseTime": 62
+	},
+	{
+		"killer": "Wraith",
+		"map": "Coal Tower I",
+		"firstHitTime": 100,
+		"totalChaseTime": 131
+	},
+	{
+		"killer": "Mastermind",
+		"map": "Coal Tower I",
+		"firstHitTime": 109,
+		"totalChaseTime": 122
+	},
+	{
+		"killer": "Mastermind",
+		"map": "Coal Tower I",
+		"firstHitTime": 10,
+		"totalChaseTime": 44
+	},
+	{
+		"killer": "Trapper",
+		"map": "Suffocation Pit",
+		"firstHitTime": 32,
+		"totalChaseTime": 136
+	},
+	{
+		"killer": "Pig",
+		"map": "Wreckers' Yard",
+		"firstHitTime": 13,
+		"totalChaseTime": 39
+	},
+	{
+		"killer": "Trapper",
+		"map": "Suffocation Pit",
+		"firstHitTime": 127,
+		"totalChaseTime": 160
+	},
+	{
+		"killer": "Trapper",
+		"map": "Suffocation Pit",
+		"firstHitTime": 38,
+		"totalChaseTime": 85
+	},
+	{
+		"killer": "Oni",
+		"map": "Coal Tower I",
+		"firstHitTime": 75,
+		"totalChaseTime": 140
+	},
+	{
+		"killer": "Oni",
+		"map": "Coal Tower I",
+		"firstHitTime": 67,
+		"totalChaseTime": 103
+	},
+	{
+		"killer": "Leatherface",
+		"map": "Wreckers' Yard",
+		"firstHitTime": 16,
+		"totalChaseTime": 139
+	},
+	{
+		"killer": "Leatherface",
+		"map": "Wreckers' Yard",
+		"firstHitTime": 84,
+		"totalChaseTime": 150
+	},
+	{
+		"killer": "Mastermind",
+		"map": "Coal Tower I",
+		"firstHitTime": 36,
+		"totalChaseTime": 58
+	},
+	{
+		"killer": "Mastermind",
+		"map": "Coal Tower I",
+		"firstHitTime": 47,
+		"totalChaseTime": 81
+	},
+	{
+		"killer": "Wraith",
+		"map": "Dead Dawg Saloon",
+		"firstHitTime": 27,
+		"totalChaseTime": 154
+	},
+	{
+		"killer": "Wraith",
+		"map": "Dead Dawg Saloon",
+		"firstHitTime": 11,
+		"totalChaseTime": 53
+	},
+	{
+		"killer": "Trapper",
+		"map": "Suffocation Pit",
+		"firstHitTime": 68,
+		"totalChaseTime": 154
+	},
+	{
+		"killer": "Trapper",
+		"map": "Suffocation Pit",
+		"firstHitTime": 60,
+		"totalChaseTime": 104
+	},
+	{
+		"killer": "Wraith",
+		"map": "Coal Tower I",
+		"firstHitTime": 26,
+		"totalChaseTime": 52
+	},
+	{
+		"killer": "Wraith",
+		"map": "Coal Tower I",
+		"firstHitTime": 43,
+		"totalChaseTime": 113
+	},
+	{
+		"killer": "Demogorgon",
+		"map": "Wreckers' Yard",
+		"firstHitTime": 13,
+		"totalChaseTime": 69
+	},
+	{
+		"killer": "Demogorgon",
+		"map": "Wreckers' Yard",
+		"firstHitTime": 122,
+		"totalChaseTime": 156
+	},
+	{
+		"killer": "Pig",
+		"map": "Wreckers' Yard",
+		"firstHitTime": 89,
+		"totalChaseTime": 147
+	},
+	{
+		"killer": "Pig",
+		"map": "Wreckers' Yard",
+		"firstHitTime": 13,
+		"totalChaseTime": 40
+	}
+]

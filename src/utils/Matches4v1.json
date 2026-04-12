@@ -1,0 +1,146 @@
+[
+	{
+		"map": "Coal Tower I",
+		"killer": "Mastermind",
+		"generators": 4,
+		"totalHookStages": 12,
+		"freshHookStages": 4,
+		"kills": 4,
+		"firstDownTime": 53
+	},
+	{
+		"map": "Coal Tower I",
+		"killer": "Mastermind",
+		"generators": 1,
+		"totalHookStages": 12,
+		"freshHookStages": 4,
+		"kills": 4,
+		"firstDownTime": 49
+	},
+	{
+		"map": "Coal Tower I",
+		"killer": "Oni",
+		"generators": 5,
+		"totalHookStages": 5,
+		"freshHookStages": 3,
+		"kills": 1,
+		"firstDownTime": 219
+	},
+	{
+		"map": "Coal Tower I",
+		"killer": "Oni",
+		"generators": 4,
+		"totalHookStages": 12,
+		"freshHookStages": 4,
+		"kills": 4,
+		"firstDownTime": 94
+	},
+	{
+		"map": "Wretched Shop",
+		"killer": "Doctor",
+		"generators": 5,
+		"totalHookStages": 7,
+		"freshHookStages": 3,
+		"kills": 2,
+		"firstDownTime": 135
+	},
+	{
+		"map": "Wretched Shop",
+		"killer": "Doctor",
+		"generators": 5,
+		"totalHookStages": 5,
+		"freshHookStages": 3,
+		"kills": 1,
+		"firstDownTime": 93
+	},
+	{
+		"map": "Dead Dawg Saloon",
+		"killer": "Wraith",
+		"generators": 3,
+		"totalHookStages": 12,
+		"freshHookStages": 4,
+		"kills": 4,
+		"firstDownTime": 88
+	},
+	{
+		"map": "Dead Dawg Saloon",
+		"killer": "Wraith",
+		"generators": 5,
+		"totalHookStages": 5,
+		"freshHookStages": 3,
+		"kills": 1,
+		"firstDownTime": 74
+	},
+	{
+		"map": "Wreckers' Yard",
+		"killer": "Huntress",
+		"generators": 5,
+		"totalHookStages": 10,
+		"freshHookStages": 4,
+		"kills": 2,
+		"firstDownTime": 70
+	},
+	{
+		"map": "Wreckers' Yard",
+		"killer": "Huntress",
+		"generators": 5,
+		"totalHookStages": 4,
+		"freshHookStages": 2,
+		"kills": 1,
+		"firstDownTime": 250
+	},
+	{
+		"map": "Dead Dawg Saloon",
+		"killer": "Wraith",
+		"generators": 1,
+		"totalHookStages": 12,
+		"freshHookStages": 4,
+		"kills": 4,
+		"firstDownTime": 39
+	},
+	{
+		"map": "Wreckers' Yard",
+		"killer": "Spirit",
+		"generators": 4,
+		"totalHookStages": 12,
+		"freshHookStages": 4,
+		"kills": 4,
+		"firstDownTime": 130
+	},
+	{
+		"map": "Wreckers' Yard",
+		"killer": "Spirit",
+		"generators": 4,
+		"totalHookStages": 12,
+		"freshHookStages": 4,
+		"kills": 4,
+		"firstDownTime": 38
+	},
+	{
+		"map": "Wreckers' Yard",
+		"killer": "Spirit",
+		"generators": 5,
+		"totalHookStages": 3,
+		"freshHookStages": 1,
+		"kills": 1,
+		"firstDownTime": 65
+	},
+	{
+		"map": "Suffocation Pit I",
+		"killer": "Blight",
+		"generators": 3,
+		"totalHookStages": 12,
+		"freshHookStages": 4,
+		"kills": 4,
+		"firstDownTime": 146
+	},
+	{
+		"map": "Suffocation Pit I",
+		"killer": "Blight",
+		"generators": 5,
+		"totalHookStages": 5,
+		"freshHookStages": 3,
+		"kills": 1,
+		"firstDownTime": 65
+	}
+]
