@@ -1,13 +1,19 @@
 import Header from '../components/Header'
-import { Box } from '@mui/material'
+import { Box, Typography } from '@mui/material'
+import Footer from './Footer'
 
 export default function PageNotFound() {
-  return (
-	<>
-		<Header/>
-		<Box mx={34}>
-			404
+	return (
+		<Box sx={{
+			minHeight: "100vh",
+			display: "flex",
+			flexDirection: "column"
+		}}>
+			<Header />
+			<Box sx={{ flex: 1, alignContent: "center", alignSelf: "center" }}>
+				<Typography fontSize={50} fontWeight={600}>404 | This page does not exist</Typography>
+			</Box>
+			<Footer />
 		</Box>
-	</>
-  )
+	)
 }

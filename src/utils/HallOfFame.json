@@ -1,0 +1,30 @@
+{
+	"4v1 Tournaments": [
+		{
+			"title": "Winter Clash 2026",
+			"date": "07 February 2026",
+			"prizePool": "50€",
+			"winners": ["dxvid", "V0id", "Smashy", "Infladyne", "malala"],
+			"casters": ["Vayke"],
+			"art": {
+				"credits": ["cybe"],
+				"image": "/assets/WinterClash2026.webp"
+			},
+			"vod": "https://www.youtube.com/playlist?list=PLTYbeFKopy557Lj21MeGKvoJkRe3PAXio"
+		}
+	],
+	"1v1 Tournaments": [
+		{
+			"title": "Strange Dance of Blood",
+			"date": "21 March 2026",
+			"prizePool": "60€",
+			"winners": ["Predro", "h", "sean"],
+			"casters": ["JPTRON"],
+			"art": {
+				"credits": ["JPTRON","Vayke"],
+				"image": "/assets/StrangeDanceOfBlood.webp"
+			},
+			"vod": "https://www.youtube.com/watch?v=FTPwCO2Y4mQ"
+		}
+	]
+}

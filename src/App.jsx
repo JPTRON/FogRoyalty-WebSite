@@ -1,11 +1,11 @@
-import { useState } from 'react'
-import FogRoyaltyLogo from './assets/FogRoyaltyLogo.png'
+import Footer from './components/Footer'
 import Header from './components/Header'
 
 function App() {
   return (
     <>
       <Header/>
+	  <Footer/>
     </>
   )
 }

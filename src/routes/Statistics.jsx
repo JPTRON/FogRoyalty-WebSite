@@ -6,6 +6,7 @@ import matches4v1 from "../utils/Matches4v1.json";
 import matches1v1 from "../utils/Matches1v1.json";
 import { DataGrid } from '@mui/x-data-grid';
 import _ from "lodash";
+import Footer from '../components/Footer';
 
 export const Route = createFileRoute('/Statistics')({
 	component: Statistics,
@@ -222,31 +223,35 @@ function Statistics() {
 	}
 
 	return (
-		<>
+		<Box sx={{
+			minHeight: "100vh",
+			display: "flex",
+			flexDirection: "column"
+		}}>
 			<Header />
-			<Container maxWidth="lg">
+			<Container maxWidth="lg" sx={{ flex: 1 }}>
 				<Box mt={5}>
 					<Typography sx={{ fontWeight: 600, fontSize: 50 }}>Statistics</Typography>
 					<Box mt={4} sx={{ display: "flex", flexDirection: "row", justifyContent: "center" }}>
-						<Button variant='contained' sx={{ marginRight: 2, fontWeight: 600 }} onClick={() => { setStatsFormat("4v1") }}>
+						<Button variant="contained" sx={{ marginRight: 2, fontWeight: 600 }} onClick={() => { setStatsFormat("4v1") }}>
 							<Typography sx={{ fontWeight: 600, marginRight: 0.5 }}>STATS</Typography>
 							<Typography sx={{ fontWeight: 300 }}>4v1</Typography>
 						</Button>
-						<Button variant='contained' sx={{ marginRight: 2, fontWeight: 600 }} onClick={() => { setStatsFormat("1v1") }}>
+						<Button variant="contained" sx={{ marginRight: 2, fontWeight: 600 }} onClick={() => { setStatsFormat("1v1") }}>
 							<Typography sx={{ fontWeight: 600, marginRight: 0.5 }}>STATS</Typography>
 							<Typography sx={{ fontWeight: 300 }}>1v1</Typography>
 						</Button>
 					</Box>
-					<Box mt={4} sx={{ display: 'flex', flexDirection: "column", alignItems: "center" }}>
+					<Box mt={4} sx={{ display: "flex", flexDirection: "column", alignItems: "center" }}>
 						<Typography sx={{ fontWeight: 600, textTransform: "uppercase" }}>{statsFormat} Statistics</Typography>
 						<Box mt={2} mb={2} sx={{ display: "flex", flexDirection: "row", justifyContent: "center" }}>
-							<Button variant='contained' sx={{ marginRight: 2, fontWeight: 600 }} onClick={() => { setSelectedFilter("killers") }}>
+							<Button variant="contained" sx={{ marginRight: 2, fontWeight: 600 }} onClick={() => { setSelectedFilter("killers") }}>
 								<Typography sx={{ fontWeight: 600, marginRight: 0.5 }}>STATS</Typography>
-								<Typography sx={{ fontWeight: 300 }}>per Killer</Typography>
+								<Typography sx={{ fontWeight: 300 }}>Killer</Typography>
 							</Button>
-							<Button variant='contained' sx={{ marginRight: 2, fontWeight: 600 }} onClick={() => { setSelectedFilter("maps") }}>
+							<Button variant="contained" sx={{ marginRight: 2, fontWeight: 600 }} onClick={() => { setSelectedFilter("maps") }}>
 								<Typography sx={{ fontWeight: 600, marginRight: 0.5 }}>STATS</Typography>
-								<Typography sx={{ fontWeight: 300 }}>per Map</Typography>
+								<Typography sx={{ fontWeight: 300 }}>Map</Typography>
 							</Button>
 						</Box>
 						{selectedFilter === "killers" ?
@@ -281,22 +286,23 @@ function Statistics() {
 								columns={statsFormat === "4v1" ? get4v1Columns() : get1v1Columns()}
 								disableRowSelectionOnClick
 								autoHeight
-								autoPageSize
 								disableColumnFilter
 								disableColumnMenu
 								disableColumnResize
 								disableColumnSelector
 								hideFooter
 								getRowClassName={(params) =>
-									params.indexRelativeToCurrentPage % 2 === 0 ? 'even' : 'odd'
+									params.indexRelativeToCurrentPage % 2 === 0 ? "even" : "odd"
 								}
 								sx={{
-									'& .MuiDataGrid-columnHeaderTitle': {
-										color: 'primary.main',
+
+									border: "1px solid rgba(234, 152, 0, 0.2)",
+									"& .MuiDataGrid-columnHeaderTitle": {
+										color: "primary.main",
 										fontWeight: 700,
 									},
-									'& .even': {
-										backgroundColor: '#ffc35527',
+									"& .even": {
+										backgroundColor: "primary.translucid",
 									},
 								}}
 							/>
@@ -304,6 +310,7 @@ function Statistics() {
 					</Box>
 				</Box>
 			</Container>
-		</>
+			<Footer />
+		</Box>
 	)
 }

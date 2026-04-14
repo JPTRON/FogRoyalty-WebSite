@@ -11,16 +11,39 @@ const router = createRouter({ routeTree, defaultNotFoundComponent: PageNotFound,
 
 createRoot(document.getElementById('root')).render(
 	<StrictMode>
-    	<ThemeProvider theme={theme}>
+		<ThemeProvider theme={theme}>
 			<GlobalStyles
 				styles={(theme) => ({
+					html: {
+						scrollbarWidth: "thin",
+						scrollbarColor: "#ea9800 #0b0809",
+					},
 					body: {
 						backgroundColor: theme.palette.background.default,
 						color: theme.palette.text.primary,
+						scrollbarWidth: "thin",
+						scrollbarColor: "#ea9800 #0b0809",
+					},
+					"::-webkit-scrollbar": {
+						width: "6px",
+					},
+
+					"::-webkit-scrollbar-track": {
+						background: theme.palette.background.default,
+					},
+
+					"::-webkit-scrollbar-thumb": {
+						backgroundColor: theme.palette.text.primary.main,
+						borderRadius: "999px",
+						transition: "background-color 0.2s ease",
+					},
+
+					"::-webkit-scrollbar-thumb:hover": {
+						backgroundColor: theme.palette.text.primary.light,
 					},
 				})}
 			/>
-			<RouterProvider router={router}/>
+			<RouterProvider router={router} />
 		</ThemeProvider>
 	</StrictMode>,
 )

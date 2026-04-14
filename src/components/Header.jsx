@@ -13,7 +13,7 @@ import {
 } from "@mui/material";
 import MenuIcon from '@mui/icons-material/Menu';
 import { Link } from "@tanstack/react-router";
-import logo from "../assets/FogRoyaltyLogo.png";
+import logo from "../assets/FogRoyaltyLogo.webp";
 import { useState } from "react";
 
 const StyledLink = styled(Link)`
@@ -64,6 +64,7 @@ export default function Header() {
 							src={logo}
 							sx={{
 								my: 1,
+								transition: "all 0.1s ease",
 								filter: "drop-shadow(0 0 0.30rem white)",
 								width: 60,
 								height: "auto",
