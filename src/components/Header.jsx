@@ -15,6 +15,7 @@ import MenuIcon from '@mui/icons-material/Menu';
 import { Link } from "@tanstack/react-router";
 import logo from "../assets/FogRoyaltyLogo.webp";
 import { useState } from "react";
+import OpenInNewIcon from '@mui/icons-material/OpenInNew';
 
 const StyledLink = styled(Link)`
 	color: white;
@@ -56,7 +57,7 @@ export default function Header() {
 };
 
 	return (
-		<AppBar position="static" sx={{ backgroundImage: "linear-gradient(to bottom, #0d0d0d, #0b0809)", boxShadow: "0px 0px 7px #e19e07"}}>
+		<AppBar position="sticky" sx={{ backgroundImage: "linear-gradient(to bottom, #0d0d0d, #0b0809)", boxShadow: "0px 0px 7px #e19e07"}}>
 			<Container maxWidth={"lg"} mx={"auto"}>
 				<Toolbar sx={{ justifyContent: "space-between" }} disableGutters>
 					<Link to="/">
@@ -86,9 +87,9 @@ export default function Header() {
 							</AppBarButton>
 						</StyledLink>
 
-						<StyledLink to="/about">
+						<StyledLink to="https://streamelements.com/jptron/tip" target="_blank" rel="noreferrer">
 							<AppBarButton sx={{ color: "white" }}>
-								<Typography sx={{ fontWeight: "600" }}>About</Typography>
+								<Typography sx={{ fontWeight: "600" }}>Support us</Typography> <OpenInNewIcon sx={{ paddingBottom: 0.2, marginLeft: 0.5, fontSize: "1.1rem"}}/>
 							</AppBarButton>
 						</StyledLink>
 					</Box>
@@ -115,7 +116,7 @@ export default function Header() {
 							}}
 						>
 							<MenuItem onClick={handleCloseMenu}>
-								<StyledLink to="/stats"><Typography sx={{ fontWeight: "600" }}>Stats</Typography></StyledLink>
+								<StyledLink to="/statistics"><Typography sx={{ fontWeight: "600" }}>Statistics</Typography></StyledLink>
 							</MenuItem>
 
 							<MenuItem onClick={handleCloseMenu}>
@@ -123,7 +124,7 @@ export default function Header() {
 							</MenuItem>
 
 							<MenuItem onClick={handleCloseMenu}>
-								<StyledLink to="/about"><Typography sx={{ fontWeight: "600" }}>About</Typography></StyledLink>
+								<StyledLink to="https://streamelements.com/jptron/tip" target="_blank" rel="noreferrer"><Typography sx={{ fontWeight: "600" }}>Support us</Typography> <OpenInNewIcon sx={{ fontSize: "1.1rem"}}/></StyledLink>
 							</MenuItem>
 						</Menu>
 					</Box>

@@ -99,15 +99,16 @@ function HallOfFame() {
 										</AccordionSummary>
 
 										<AccordionDetails
-											sx={{
+											sx={(theme) => ({
 												mt: 1,
 												position: "relative",
 												overflow: "hidden",
 												borderRadius: 3,
-												border: "1px solid rgba(234, 152, 0, 0.2)",
+												border: `1px solid ${theme.palette.primary.lightTranslucid}`,
+												boxShadow: `0 0 10px ${theme.palette.primary.translucid}`,
 												backgroundColor: "#151112",
 												p: 3,
-											}}
+											})}
 										>
 											<Box
 												sx={{
@@ -129,7 +130,7 @@ function HallOfFame() {
 
 											<Box sx={{ position: "relative", zIndex: 1 }}>
 												<Typography><strong>Date:</strong> {tournament.date}</Typography>
-												<Typography><strong>Prize Pool:</strong> {tournament.prizePool}</Typography>
+												<Typography><strong>Prize Pool:</strong> {tournament.prizePool}€ </Typography>
 
 												<Box mt={2}>
 													<Typography fontWeight={600}>Winners</Typography>

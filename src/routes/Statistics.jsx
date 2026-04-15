@@ -294,9 +294,10 @@ function Statistics() {
 								getRowClassName={(params) =>
 									params.indexRelativeToCurrentPage % 2 === 0 ? "even" : "odd"
 								}
-								sx={{
-
-									border: "1px solid rgba(234, 152, 0, 0.2)",
+								sx={(theme) => ({
+									border: `1px solid ${theme.palette.primary.lightTranslucid}`,
+									borderRadius: 1,
+									boxShadow: `0 0 10px ${theme.palette.primary.translucid}`,
 									"& .MuiDataGrid-columnHeaderTitle": {
 										color: "primary.main",
 										fontWeight: 700,
@@ -304,7 +305,7 @@ function Statistics() {
 									"& .even": {
 										backgroundColor: "primary.translucid",
 									},
-								}}
+								})}
 							/>
 						</Box>
 					</Box>

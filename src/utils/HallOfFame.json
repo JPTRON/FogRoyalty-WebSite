@@ -3,7 +3,7 @@
 		{
 			"title": "Winter Clash 2026",
 			"date": "07 February 2026",
-			"prizePool": "50€",
+			"prizePool": 50,
 			"winners": ["dxvid", "V0id", "Smashy", "Infladyne", "malala"],
 			"casters": ["Vayke"],
 			"art": {
@@ -17,7 +17,7 @@
 		{
 			"title": "Strange Dance of Blood",
 			"date": "21 March 2026",
-			"prizePool": "60€",
+			"prizePool": 60,
 			"winners": ["Predro", "h", "sean"],
 			"casters": ["JPTRON"],
 			"art": {
