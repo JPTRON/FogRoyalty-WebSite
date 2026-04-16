@@ -23,4 +23,3 @@ jobs:
         run: |
           rm -rf /var/www/fogRoyalty/dist
           cp -r dist /var/www/fogRoyalty/dist
-          systemctl reload nginx
