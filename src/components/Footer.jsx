@@ -1,5 +1,6 @@
 import { Box, Container, IconButton, Link, Typography, styled } from "@mui/material";
 import SteamIcon from "../assets/steam-icon.svg?react";
+import TwitchIcon from "../assets/logo-twitch.svg?react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 const SocialButton = styled(IconButton)`
@@ -57,6 +58,26 @@ export default function Footer() {
 						}}
 					>
 						<SteamIcon fill={"none"} stroke={"#ea9800"} width={"100%"} height={"100%"}/>
+					</Link>
+					<Link
+						href={"https://www.twitch.tv/fogroyalty"}
+						target="_blank"
+						rel="noopener noreferrer"
+						underline="none"
+						sx={{
+							display: "flex",
+							filter: "drop-shadow(0 0 0.30rem #ffb12b)",
+							width: "1.3rem",
+							height: "1.3rem",
+							marginLeft: -1,
+							paddingLeft: "1px", 
+							transition: "all 0.25s ease",
+							"&:hover": {
+								transform: "scale(1.05)"
+							},
+						}}
+					>
+						<TwitchIcon fill={"none"} stroke={"#ea9800"} width={"100%"} height={"100%"}/>
 					</Link>
 				</Box>
 
