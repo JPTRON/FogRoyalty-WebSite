@@ -358,5 +358,209 @@
 		"map": "Wreckers' Yard",
 		"firstHitTime": 13,
 		"totalChaseTime": 40
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Blood Lodge",
+		"firstHitTime": 115,
+		"totalChaseTime": 208
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Blood Lodge",
+		"firstHitTime": 134,
+		"totalChaseTime": 134
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Blood Lodge",
+		"firstHitTime": 64,
+		"totalChaseTime": 64
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Blood Lodge",
+		"firstHitTime": 58,
+		"totalChaseTime": 58
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Blood Lodge",
+		"firstHitTime": 55,
+		"totalChaseTime": 55
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Blood Lodge",
+		"firstHitTime": 48,
+		"totalChaseTime": 48
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Blood Lodge",
+		"firstHitTime": 48,
+		"totalChaseTime": 48
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Blood Lodge",
+		"firstHitTime": 45,
+		"totalChaseTime": 45
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Blood Lodge",
+		"firstHitTime": 44,
+		"totalChaseTime": 44
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Blood Lodge",
+		"firstHitTime": 39,
+		"totalChaseTime": 39
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Blood Lodge",
+		"firstHitTime": 35,
+		"totalChaseTime": 35
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Blood Lodge",
+		"firstHitTime": 8,
+		"totalChaseTime": 8
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Blood Lodge",
+		"firstHitTime": 28,
+		"totalChaseTime": 28
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Blood Lodge",
+		"firstHitTime": 20,
+		"totalChaseTime": 20
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Gas Heaven",
+		"firstHitTime": 59,
+		"totalChaseTime": 59
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Gas Heaven",
+		"firstHitTime": 39,
+		"totalChaseTime": 104
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Gas Heaven",
+		"firstHitTime": 32,
+		"totalChaseTime": 32
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Gas Heaven",
+		"firstHitTime": 35,
+		"totalChaseTime": 35
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Gas Heaven",
+		"firstHitTime": 37,
+		"totalChaseTime": 37
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Gas Heaven",
+		"firstHitTime": 48,
+		"totalChaseTime": 48
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Gas Heaven",
+		"firstHitTime": 46,
+		"totalChaseTime": 46
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Gas Heaven",
+		"firstHitTime": 28,
+		"totalChaseTime": 28
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Gas Heaven",
+		"firstHitTime": 78,
+		"totalChaseTime": 78
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Wreckers' Yard",
+		"firstHitTime": 43,
+		"totalChaseTime": 43
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Wreckers' Yard",
+		"firstHitTime": 55,
+		"totalChaseTime": 55
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Wreckers' Yard",
+		"firstHitTime": 90,
+		"totalChaseTime": 90
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Wreckers' Yard",
+		"firstHitTime": 56,
+		"totalChaseTime": 79
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Wreckers' Yard",
+		"firstHitTime": 63,
+		"totalChaseTime": 63
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Blood Lodge",
+		"firstHitTime": 101,
+		"totalChaseTime": 101
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Blood Lodge",
+		"firstHitTime": 25,
+		"totalChaseTime": 25
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Blood Lodge",
+		"firstHitTime": 59,
+		"totalChaseTime": 59
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Blood Lodge",
+		"firstHitTime": 25,
+		"totalChaseTime": 25
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Blood Lodge",
+		"firstHitTime": 44,
+		"totalChaseTime": 44
+	},
+	{
+		"killer": "Hillbilly",
+		"map": "Blood Lodge",
+		"firstHitTime": 36,
+		"totalChaseTime": 36
 	}
 ]

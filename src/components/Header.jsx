@@ -87,7 +87,7 @@ export default function Header() {
 							</AppBarButton>
 						</StyledLink>
 
-						<StyledLink to="https://streamelements.com/jptron/tip" target="_blank" rel="noreferrer">
+						<StyledLink to="https://streamelements.com/fogroyalty/tip" target="_blank" rel="noreferrer">
 							<AppBarButton sx={{ color: "white" }}>
 								<Typography sx={{ fontWeight: "600" }}>Support us</Typography> <OpenInNewIcon sx={{ paddingBottom: 0.2, marginLeft: 0.5, fontSize: "1.1rem"}}/>
 							</AppBarButton>
@@ -124,7 +124,7 @@ export default function Header() {
 							</MenuItem>
 
 							<MenuItem onClick={handleCloseMenu}>
-								<StyledLink to="https://streamelements.com/jptron/tip" target="_blank" rel="noreferrer"><Typography sx={{ fontWeight: "600" }}>Support us</Typography> <OpenInNewIcon sx={{ fontSize: "1.1rem"}}/></StyledLink>
+								<StyledLink to="https://streamelements.com/fogroyalty/tip" target="_blank" rel="noreferrer"><Typography sx={{ fontWeight: "600" }}>Support us</Typography> <OpenInNewIcon sx={{ fontSize: "1.1rem"}}/></StyledLink>
 							</MenuItem>
 						</Menu>
 					</Box>

@@ -18,13 +18,25 @@
 			"title": "Strange Dance of Blood",
 			"date": "21 March 2026",
 			"prizePool": 60,
-			"winners": ["Predro", "h", "sean"],
+			"winners": ["Predro", "h", "Sean"],
 			"casters": ["JPTRON"],
 			"art": {
 				"credits": ["JPTRON","Vayke"],
 				"image": "/assets/StrangeDanceOfBlood.webp"
 			},
 			"vod": "https://www.youtube.com/watch?v=FTPwCO2Y4mQ"
+		},
+		{
+			"title": "Fog Royalty x Syndicate - Hillbilly Event",
+			"date": "10 May 2026",
+			"prizePool": 70,
+			"winners": ["Sean", "CheeseRG", "Zuha"],
+			"casters": ["JPTRON", "Cruzader"],
+			"art": {
+				"credits": ["JPTRON","Vayke"],
+				"image": "/assets/FogRoyaltyxSyndicate-HillBillyEvent.webp"
+			},
+			"vod": "https://www.youtube.com/watch?v=4tpIbWze0a0"
 		}
 	]
 }
