@@ -106,7 +106,7 @@ function Home() {
 
 				<Grid container spacing={3}>
 					{cards.map((card, index) => (
-						<Grid size={6} key={index} mb={6}>
+						<Grid size={{ xs: 12, sm: 6 }} key={index} mb={6}>
 							<Paper
 								elevation={0}
 								sx={(theme) => ({
@@ -134,7 +134,6 @@ function Home() {
 											fontSize: 25,
 											fontWeight: 800,
 											textTransform: "uppercase",
-											overflowWrap: "anywhere",
 											letterSpacing: 1.5,
 										}}
 									>

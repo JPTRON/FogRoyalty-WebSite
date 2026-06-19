@@ -75,6 +75,12 @@ export default function Header() {
 					</Link>
 
 					<Box sx={{ display: { xs: "none", md: "flex" } }}>
+						<StyledLink to="/">
+							<AppBarButton sx={{ color: "white" }}>
+								<Typography sx={{ fontWeight: "600" }}>Home</Typography>
+							</AppBarButton>
+						</StyledLink>
+
 						<StyledLink to="/statistics">
 							<AppBarButton sx={{ color: "white" }}>
 								<Typography sx={{ fontWeight: "600" }}>Statistics</Typography>
@@ -115,6 +121,10 @@ export default function Header() {
 								}
 							}}
 						>
+							<MenuItem onClick={handleCloseMenu}>
+								<StyledLink to="/"><Typography sx={{ fontWeight: "600" }}>Home</Typography></StyledLink>
+							</MenuItem>
+
 							<MenuItem onClick={handleCloseMenu}>
 								<StyledLink to="/statistics"><Typography sx={{ fontWeight: "600" }}>Statistics</Typography></StyledLink>
 							</MenuItem>

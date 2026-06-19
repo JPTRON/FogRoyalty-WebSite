@@ -286,6 +286,7 @@ function Statistics() {
 								columns={statsFormat === "4v1" ? get4v1Columns() : get1v1Columns()}
 								disableRowSelectionOnClick
 								autoHeight
+								autosizeOnMount
 								disableColumnFilter
 								disableColumnMenu
 								disableColumnResize
@@ -294,6 +295,11 @@ function Statistics() {
 								getRowClassName={(params) =>
 									params.indexRelativeToCurrentPage % 2 === 0 ? "even" : "odd"
 								}
+								autosizeOptions={{
+									includeHeaders: true,
+									includeOutliers: true,
+									expand: true,
+								}}
 								sx={(theme) => ({
 									border: `1px solid ${theme.palette.primary.lightTranslucid}`,
 									borderRadius: 1,
@@ -301,6 +307,23 @@ function Statistics() {
 									"& .MuiDataGrid-columnHeaderTitle": {
 										color: "primary.main",
 										fontWeight: 700,
+										overflow: "visible",
+										textOverflow: "unset",
+									},
+									"& .MuiDataGrid-columnHeaderTitleContainer": {
+										overflow: "visible",
+									},
+									"& .MuiDataGrid-columnHeader": {
+										overflow: "visible",
+									},
+									"& .MuiDataGrid-cell": {
+										overflow: "visible",
+										textOverflow: "unset",
+										whiteSpace: "nowrap",
+									},
+									"& .MuiDataGrid-cellContent": {
+										overflow: "visible",
+										textOverflow: "unset",
 									},
 									"& .even": {
 										backgroundColor: "primary.translucid",
