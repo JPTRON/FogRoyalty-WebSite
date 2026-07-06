@@ -38,7 +38,7 @@ function Home() {
 		},
 		{
 			title: "Community Size",
-			value: "90+ Member",
+			value: "90+ Members",
 			description: "Members across Steam and Discord.",
 			subText: "(Last updated 10 May 2026)",
 			icon: <GroupsIcon sx={{ fontSize: 28 }} />,
