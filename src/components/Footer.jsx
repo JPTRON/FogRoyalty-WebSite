@@ -2,6 +2,7 @@ import { Box, Container, IconButton, Link, Typography, styled } from "@mui/mater
 import SteamIcon from "../assets/steam-icon.svg?react";
 import TwitchIcon from "../assets/logo-twitch.svg?react";
 import YoutubeIcon from "../assets/youtube-icon.svg?react";
+import DiscordIcon from "../assets/discord-icon.svg?react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 const SocialButton = styled(IconButton)`
@@ -37,7 +38,7 @@ export default function Footer() {
 					}}
 				>
 					<Typography sx={{ fontWeight: 750, color: "white", fontSize: 17 }}>
-						Check Us
+						Find Us
 					</Typography>
 						
 					<Link
@@ -99,6 +100,26 @@ export default function Footer() {
 						}}
 					>
 						<YoutubeIcon fill={"none"} stroke={"#ea9800"} width={"100%"} height={"100%"}/>
+					</Link>
+					<Link
+						href={"https://discord.gg/T89thnq859"}
+						target="_blank"
+						rel="noopener noreferrer"
+						underline="none"
+						sx={{
+							display: "flex",
+							filter: "drop-shadow(0 0 0.30rem #ffb12b)",
+							width: "1.3rem",
+							height: "1.3rem",
+							marginLeft: -1,
+							paddingLeft: "1px", 
+							transition: "all 0.25s ease",
+							"&:hover": {
+								transform: "scale(1.05)"
+							},
+						}}
+					>
+						<DiscordIcon fill={"none"} stroke={"#ea9800"} width={"100%"} height={"100%"}/>
 					</Link>
 				</Box>
 

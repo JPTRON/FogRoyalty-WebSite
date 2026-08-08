@@ -1,563 +1,657 @@
 [
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Trapper",
 		"map": "Suffocation Pit",
 		"firstHitTime": 68,
 		"totalChaseTime": 94
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Demogorgon",
 		"map": "Wreckers' Yard",
 		"firstHitTime": 47,
 		"totalChaseTime": 100
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Pig",
 		"map": "Wreckers' Yard",
 		"firstHitTime": 69,
 		"totalChaseTime": 104
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Pig",
 		"map": "Wreckers' Yard",
 		"firstHitTime": 24,
 		"totalChaseTime": 116
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Mastermind",
 		"map": "Coal Tower I",
 		"firstHitTime": 6,
 		"totalChaseTime": 32
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Mastermind",
 		"map": "Coal Tower I",
 		"firstHitTime": 139,
 		"totalChaseTime": 330
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Demogorgon",
 		"map": "Wreckers' Yard",
 		"firstHitTime": 110,
 		"totalChaseTime": 168
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Demogorgon",
 		"map": "Wreckers' Yard",
 		"firstHitTime": 25,
 		"totalChaseTime": 37
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Blight",
 		"map": "Suffocation Pit",
 		"firstHitTime": 47,
 		"totalChaseTime": 70 
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Wraith",
 		"map": "Coal Tower I",
 		"firstHitTime": 140,
 		"totalChaseTime": 210
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Wraith",
 		"map": "Coal Tower I",
 		"firstHitTime": 42,
 		"totalChaseTime": 63
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Blight",
 		"map": "Suffocation Pit",
 		"firstHitTime": 103,
 		"totalChaseTime": 199
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Blight",
 		"map": "Suffocation Pit",
 		"firstHitTime": 11,
 		"totalChaseTime": 26
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Dark Lord",
 		"map": "Wretched Shop",
 		"firstHitTime": 92,
 		"totalChaseTime": 128
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Dark Lord",
 		"map": "Wretched Shop",
 		"firstHitTime": 43,
 		"totalChaseTime": 95
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Demogorgon",
 		"map": "Wreckers' Yard",
 		"firstHitTime": 46,
 		"totalChaseTime": 56
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Wraith",
 		"map": "Coal Tower I",
 		"firstHitTime": 68,
 		"totalChaseTime": 108
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Blight",
 		"map": "Suffocation Pit",
 		"firstHitTime": 39,
 		"totalChaseTime": 52
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Blight",
 		"map": "Suffocation Pit",
 		"firstHitTime": 36,
 		"totalChaseTime": 119
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Wraith",
 		"map": "Coal Tower I",
 		"firstHitTime": 38,
 		"totalChaseTime": 81
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Wraith",
 		"map": "Coal Tower I",
 		"firstHitTime": 54,
 		"totalChaseTime": 77
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Lich",
 		"map": "Dead Dawg Saloon",
 		"firstHitTime": 13,
 		"totalChaseTime": 45
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Lich",
 		"map": "Dead Dawg Saloon",
 		"firstHitTime": 12,
 		"totalChaseTime": 26
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Oni",
 		"map": "Coal Tower I",
 		"firstHitTime": 58,
 		"totalChaseTime": 92
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Oni",
 		"map": "Coal Tower I",
 		"firstHitTime": 57,
 		"totalChaseTime": 97
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Demogorgon",
 		"map": "Wreckers' Yard",
 		"firstHitTime": 37,
 		"totalChaseTime": 57
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Demogorgon",
 		"map": "Wreckers' Yard",
 		"firstHitTime": 39,
 		"totalChaseTime": 62
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Blight",
 		"map": "Suffocation Pit",
 		"firstHitTime": 43,
 		"totalChaseTime": 127
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Blight",
 		"map": "Suffocation Pit",
 		"firstHitTime": 33,
 		"totalChaseTime": 53
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Lich",
 		"map": "Coal Tower I",
 		"firstHitTime": 24,
 		"totalChaseTime": 65
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Pig",
 		"map": "Wreckers' Yard",
 		"firstHitTime": 75,
 		"totalChaseTime": 120
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Pig",
 		"map": "Wreckers' Yard",
 		"firstHitTime": 68,
 		"totalChaseTime": 102
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Leatherface",
 		"map": "Wreckers' Yard",
 		"firstHitTime": 55,
 		"totalChaseTime": 55
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Wraith",
 		"map": "Coal Tower I",
 		"firstHitTime": 43,
 		"totalChaseTime": 78
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Leatherface",
 		"map": "Wreckers' Yard",
 		"firstHitTime": 145,
 		"totalChaseTime": 182
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Leatherface",
 		"map": "Wreckers' Yard",
 		"firstHitTime": 156,
 		"totalChaseTime": 156
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Wraith",
 		"map": "Coal Tower I",
 		"firstHitTime": 39,
 		"totalChaseTime": 62
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Wraith",
 		"map": "Coal Tower I",
 		"firstHitTime": 100,
 		"totalChaseTime": 131
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Mastermind",
 		"map": "Coal Tower I",
 		"firstHitTime": 109,
 		"totalChaseTime": 122
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Mastermind",
 		"map": "Coal Tower I",
 		"firstHitTime": 10,
 		"totalChaseTime": 44
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Trapper",
 		"map": "Suffocation Pit",
 		"firstHitTime": 32,
 		"totalChaseTime": 136
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Pig",
 		"map": "Wreckers' Yard",
 		"firstHitTime": 13,
 		"totalChaseTime": 39
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Trapper",
 		"map": "Suffocation Pit",
 		"firstHitTime": 127,
 		"totalChaseTime": 160
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Trapper",
 		"map": "Suffocation Pit",
 		"firstHitTime": 38,
 		"totalChaseTime": 85
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Oni",
 		"map": "Coal Tower I",
 		"firstHitTime": 75,
 		"totalChaseTime": 140
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Oni",
 		"map": "Coal Tower I",
 		"firstHitTime": 67,
 		"totalChaseTime": 103
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Leatherface",
 		"map": "Wreckers' Yard",
 		"firstHitTime": 16,
 		"totalChaseTime": 139
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Leatherface",
 		"map": "Wreckers' Yard",
 		"firstHitTime": 84,
 		"totalChaseTime": 150
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Mastermind",
 		"map": "Coal Tower I",
 		"firstHitTime": 36,
 		"totalChaseTime": 58
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Mastermind",
 		"map": "Coal Tower I",
 		"firstHitTime": 47,
 		"totalChaseTime": 81
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Wraith",
 		"map": "Dead Dawg Saloon",
 		"firstHitTime": 27,
 		"totalChaseTime": 154
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Wraith",
 		"map": "Dead Dawg Saloon",
 		"firstHitTime": 11,
 		"totalChaseTime": 53
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Trapper",
 		"map": "Suffocation Pit",
 		"firstHitTime": 68,
 		"totalChaseTime": 154
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Trapper",
 		"map": "Suffocation Pit",
 		"firstHitTime": 60,
 		"totalChaseTime": 104
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Wraith",
 		"map": "Coal Tower I",
 		"firstHitTime": 26,
 		"totalChaseTime": 52
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Wraith",
 		"map": "Coal Tower I",
 		"firstHitTime": 43,
 		"totalChaseTime": 113
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Demogorgon",
 		"map": "Wreckers' Yard",
 		"firstHitTime": 13,
 		"totalChaseTime": 69
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Demogorgon",
 		"map": "Wreckers' Yard",
 		"firstHitTime": 122,
 		"totalChaseTime": 156
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Pig",
 		"map": "Wreckers' Yard",
 		"firstHitTime": 89,
 		"totalChaseTime": 147
 	},
 	{
+		"tournament": "Strange Dance of Blood",
 		"killer": "Pig",
 		"map": "Wreckers' Yard",
 		"firstHitTime": 13,
 		"totalChaseTime": 40
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Blood Lodge",
 		"firstHitTime": 115,
 		"totalChaseTime": 208
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Blood Lodge",
 		"firstHitTime": 134,
 		"totalChaseTime": 134
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Blood Lodge",
 		"firstHitTime": 64,
 		"totalChaseTime": 64
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Blood Lodge",
 		"firstHitTime": 58,
 		"totalChaseTime": 58
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Blood Lodge",
 		"firstHitTime": 55,
 		"totalChaseTime": 55
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Blood Lodge",
 		"firstHitTime": 48,
 		"totalChaseTime": 48
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Blood Lodge",
 		"firstHitTime": 48,
 		"totalChaseTime": 48
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Blood Lodge",
 		"firstHitTime": 45,
 		"totalChaseTime": 45
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Blood Lodge",
 		"firstHitTime": 44,
 		"totalChaseTime": 44
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Blood Lodge",
 		"firstHitTime": 39,
 		"totalChaseTime": 39
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Blood Lodge",
 		"firstHitTime": 35,
 		"totalChaseTime": 35
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Blood Lodge",
 		"firstHitTime": 8,
 		"totalChaseTime": 8
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Blood Lodge",
 		"firstHitTime": 28,
 		"totalChaseTime": 28
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Blood Lodge",
 		"firstHitTime": 20,
 		"totalChaseTime": 20
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Gas Heaven",
 		"firstHitTime": 59,
 		"totalChaseTime": 59
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Gas Heaven",
 		"firstHitTime": 39,
 		"totalChaseTime": 104
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Gas Heaven",
 		"firstHitTime": 32,
 		"totalChaseTime": 32
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Gas Heaven",
 		"firstHitTime": 35,
 		"totalChaseTime": 35
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Gas Heaven",
 		"firstHitTime": 37,
 		"totalChaseTime": 37
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Gas Heaven",
 		"firstHitTime": 48,
 		"totalChaseTime": 48
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Gas Heaven",
 		"firstHitTime": 46,
 		"totalChaseTime": 46
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Gas Heaven",
 		"firstHitTime": 28,
 		"totalChaseTime": 28
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Gas Heaven",
 		"firstHitTime": 78,
 		"totalChaseTime": 78
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Wreckers' Yard",
 		"firstHitTime": 43,
 		"totalChaseTime": 43
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Wreckers' Yard",
 		"firstHitTime": 55,
 		"totalChaseTime": 55
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Wreckers' Yard",
 		"firstHitTime": 90,
 		"totalChaseTime": 90
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Wreckers' Yard",
 		"firstHitTime": 56,
 		"totalChaseTime": 79
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Wreckers' Yard",
 		"firstHitTime": 63,
 		"totalChaseTime": 63
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Blood Lodge",
 		"firstHitTime": 101,
 		"totalChaseTime": 101
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Blood Lodge",
 		"firstHitTime": 25,
 		"totalChaseTime": 25
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Blood Lodge",
 		"firstHitTime": 59,
 		"totalChaseTime": 59
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Blood Lodge",
 		"firstHitTime": 25,
 		"totalChaseTime": 25
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Blood Lodge",
 		"firstHitTime": 44,
 		"totalChaseTime": 44
 	},
 	{
+		"tournament": "Fog Royalty x Syndicate - Hillbilly Event",
 		"killer": "Hillbilly",
 		"map": "Blood Lodge",
 		"firstHitTime": 36,

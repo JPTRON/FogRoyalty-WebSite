@@ -134,8 +134,10 @@ function HallOfFame() {
 
 												<Box mt={2}>
 													<Typography fontWeight={600}>Winners</Typography>
-													{tournament.winners.map((winner, i) => (
-														<Chip key={i} label={winner} color="primary" sx={{ marginLeft: 1, minWidth: "3rem" }} />
+													{Object.keys(tournament.winners).map((standing, i) => (
+														tournament.winners[standing].map((winner, j) => (
+															<Chip key={j} label={winner} color="primary" sx={(theme) => ({backgroundColor: theme.palette.hallOfFame[standing], marginLeft: 1, minWidth: "3rem" })} />
+														))
 													))}
 												</Box>
 
@@ -147,7 +149,31 @@ function HallOfFame() {
 													<Typography fontWeight={600}>Art Credits</Typography>
 													<Typography ml={0.5} fontSize={15}>{tournament.art.credits.join(", ")}</Typography>
 												</Box>
-												<Box mt={1}>
+												{tournament.bracket && <Box mt={1}>
+													<Link
+														href={tournament.bracket}
+														target="_blank"
+														rel="noopener noreferrer"
+														underline="none"
+														sx={{
+															display: "inline-block",
+															px: 1.5,
+															py: 0.5,
+															borderRadius: 2,
+															backgroundColor: "primary.translucid",
+															color: "primary.main",
+															transition: "all 0.25s ease",
+															"&:hover": {
+																backgroundColor: "primary.main",
+																color: "black",
+																boxShadow: "0 0 12px #ea980014"
+															},
+														}}
+													>
+														<Typography fontWeight={500}>Bracket</Typography>
+													</Link>
+												</Box>}
+												{tournament.vod && <Box mt={1}>
 													<Link
 														href={tournament.vod}
 														target="_blank"
@@ -170,7 +196,7 @@ function HallOfFame() {
 													>
 														<Typography fontWeight={500}>Watch VOD</Typography>
 													</Link>
-												</Box>
+												</Box>}
 											</Box>
 										</AccordionDetails>
 									</Accordion>

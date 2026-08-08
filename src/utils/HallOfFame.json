@@ -4,13 +4,31 @@
 			"title": "Winter Clash 2026",
 			"date": "07 February 2026",
 			"prizePool": 50,
-			"winners": ["dxvid", "V0id", "Smashy", "Infladyne", "malala"],
+			"winners": {
+				"first": ["dxvid", "V0id", "Smashy", "Infladyne", "malala"]
+			},
 			"casters": ["Vayke"],
 			"art": {
 				"credits": ["cybe"],
 				"image": "/assets/WinterClash2026.webp"
 			},
-			"vod": "https://www.youtube.com/playlist?list=PLTYbeFKopy557Lj21MeGKvoJkRe3PAXio"
+			"vod": "https://www.youtube.com/playlist?list=PLY5fuhUokaYI"
+		},
+		{
+			"title": "Summer Brawl 2026",
+			"date": "25 July 2026 - 04 August 2026",
+			"prizePool": 200,
+			"winners": {
+				"first": ["Team Averno"],
+				"second": ["Team Nord"]
+			},
+			"casters": ["JPTRON", "Vayke", "Navi", "Divo", "Cryxby", "Snuffy"],
+			"art": {
+				"credits": ["Vayke", "JPTRON"],
+				"image": "/assets/SummerBrawl2026.webp"
+			},
+			"bracket": "https://challonge.com/c5rm1xwf",
+			"vod": "https://www.youtube.com/playlist?list=PLNfhT_ae9XEc"
 		}
 	],
 	"1v1 Tournaments": [
@@ -18,25 +36,33 @@
 			"title": "Strange Dance of Blood",
 			"date": "21 March 2026",
 			"prizePool": 60,
-			"winners": ["Predro", "h", "Sean"],
+			"winners": {
+				"first": ["Predro"],
+				"second": ["h"],
+				"third": ["Sean"]
+			},
 			"casters": ["JPTRON"],
 			"art": {
 				"credits": ["JPTRON","Vayke"],
 				"image": "/assets/StrangeDanceOfBlood.webp"
 			},
-			"vod": "https://www.youtube.com/watch?v=FTPwCO2Y4mQ"
+			"vod": "https://www.youtube.com/watch?v=opnwI4_DCVg"
 		},
 		{
 			"title": "Fog Royalty x Syndicate - Hillbilly Event",
 			"date": "10 May 2026",
 			"prizePool": 70,
-			"winners": ["Sean", "CheeseRG", "Zuha"],
+			"winners": {
+				"first": ["Sean"],
+				"second": ["CheeseRG"],
+				"third": ["Zuha"]
+			},
 			"casters": ["JPTRON", "Cruzader"],
 			"art": {
 				"credits": ["JPTRON","Vayke"],
 				"image": "/assets/FogRoyaltyxSyndicate-HillBillyEvent.webp"
 			},
-			"vod": "https://www.youtube.com/watch?v=4tpIbWze0a0"
+			"vod": "https://www.youtube.com/watch?v=hZAI04_ZMmw"
 		}
 	]
 }

@@ -1,5 +1,6 @@
 [
 	{
+		"tournament": "Winter Clash 2026",
 		"map": "Coal Tower I",
 		"killer": "Mastermind",
 		"generators": 4,
@@ -9,6 +10,7 @@
 		"firstDownTime": 53
 	},
 	{
+		"tournament": "Winter Clash 2026",
 		"map": "Coal Tower I",
 		"killer": "Mastermind",
 		"generators": 1,
@@ -18,6 +20,7 @@
 		"firstDownTime": 49
 	},
 	{
+		"tournament": "Winter Clash 2026",
 		"map": "Coal Tower I",
 		"killer": "Oni",
 		"generators": 5,
@@ -27,6 +30,7 @@
 		"firstDownTime": 219
 	},
 	{
+		"tournament": "Winter Clash 2026",
 		"map": "Coal Tower I",
 		"killer": "Oni",
 		"generators": 4,
@@ -36,6 +40,7 @@
 		"firstDownTime": 94
 	},
 	{
+		"tournament": "Winter Clash 2026",
 		"map": "Wretched Shop",
 		"killer": "Doctor",
 		"generators": 5,
@@ -45,6 +50,7 @@
 		"firstDownTime": 135
 	},
 	{
+		"tournament": "Winter Clash 2026",
 		"map": "Wretched Shop",
 		"killer": "Doctor",
 		"generators": 5,
@@ -54,6 +60,7 @@
 		"firstDownTime": 93
 	},
 	{
+		"tournament": "Winter Clash 2026",
 		"map": "Dead Dawg Saloon",
 		"killer": "Wraith",
 		"generators": 3,
@@ -63,6 +70,7 @@
 		"firstDownTime": 88
 	},
 	{
+		"tournament": "Winter Clash 2026",
 		"map": "Dead Dawg Saloon",
 		"killer": "Wraith",
 		"generators": 5,
@@ -72,6 +80,7 @@
 		"firstDownTime": 74
 	},
 	{
+		"tournament": "Winter Clash 2026",
 		"map": "Wreckers' Yard",
 		"killer": "Huntress",
 		"generators": 5,
@@ -81,6 +90,7 @@
 		"firstDownTime": 70
 	},
 	{
+		"tournament": "Winter Clash 2026",
 		"map": "Wreckers' Yard",
 		"killer": "Huntress",
 		"generators": 5,
@@ -90,6 +100,7 @@
 		"firstDownTime": 250
 	},
 	{
+		"tournament": "Winter Clash 2026",
 		"map": "Dead Dawg Saloon",
 		"killer": "Wraith",
 		"generators": 1,
@@ -99,6 +110,7 @@
 		"firstDownTime": 39
 	},
 	{
+		"tournament": "Winter Clash 2026",
 		"map": "Wreckers' Yard",
 		"killer": "Spirit",
 		"generators": 4,
@@ -108,6 +120,7 @@
 		"firstDownTime": 130
 	},
 	{
+		"tournament": "Winter Clash 2026",
 		"map": "Wreckers' Yard",
 		"killer": "Spirit",
 		"generators": 4,
@@ -117,6 +130,7 @@
 		"firstDownTime": 38
 	},
 	{
+		"tournament": "Winter Clash 2026",
 		"map": "Wreckers' Yard",
 		"killer": "Spirit",
 		"generators": 5,
@@ -126,6 +140,7 @@
 		"firstDownTime": 65
 	},
 	{
+		"tournament": "Winter Clash 2026",
 		"map": "Suffocation Pit I",
 		"killer": "Blight",
 		"generators": 3,
@@ -135,6 +150,7 @@
 		"firstDownTime": 146
 	},
 	{
+		"tournament": "Winter Clash 2026",
 		"map": "Suffocation Pit I",
 		"killer": "Blight",
 		"generators": 5,
@@ -142,5 +158,325 @@
 		"freshHookStages": 3,
 		"kills": 1,
 		"firstDownTime": 65
+	},
+	{
+		"tournament": "Summer Brawl 2026",
+		"map": "Blood Lodge",
+		"killer": "Ghoul",
+		"generators": 5,
+		"totalHookStages": 5,
+		"freshHookStages": 3,
+		"kills": 0,
+		"firstDownTime": 131
+	},
+	{
+		"tournament": "Summer Brawl 2026",
+		"map": "Blood Lodge",
+		"killer": "Ghoul",
+		"generators": 5,
+		"totalHookStages": 5,
+		"freshHookStages": 4,
+		"kills": 2,
+		"firstDownTime": 79
+	},
+	{
+		"tournament": "Summer Brawl 2026",
+		"map": "Suffocation Pit I",
+		"killer": "Blight",
+		"generators": 4,
+		"totalHookStages": 12,
+		"freshHookStages": 4,
+		"kills": 4,
+		"firstDownTime": 27
+	},
+	{
+		"tournament": "Summer Brawl 2026",
+		"map": "Suffocation Pit I",
+		"killer": "Blight",
+		"generators": 5,
+		"totalHookStages": 3,
+		"freshHookStages": 3,
+		"kills": 0,
+		"firstDownTime": 68
+	},
+	{
+		"tournament": "Summer Brawl 2026",
+		"map": "Suffocation Pit I",
+		"killer": "Blight",
+		"generators": 4,
+		"totalHookStages": 12,
+		"freshHookStages": 4,
+		"kills": 4,
+		"firstDownTime": 65
+	},
+	{
+		"tournament": "Summer Brawl 2026",
+		"map": "Suffocation Pit I",
+		"killer": "Blight",
+		"generators": 5,
+		"totalHookStages": 4,
+		"freshHookStages": 2,
+		"kills": 1,
+		"firstDownTime": 117
+	},
+	{
+		"tournament": "Summer Brawl 2026",
+		"map": "Dead Dawg Saloon",
+		"killer": "Wraith",
+		"generators": 5,
+		"totalHookStages": 5,
+		"freshHookStages": 4,
+		"kills": 0,
+		"firstDownTime": 148
+	},
+	{
+		"tournament": "Summer Brawl 2026",
+		"map": "Dead Dawg Saloon",
+		"killer": "Wraith",
+		"generators": 3,
+		"totalHookStages": 12,
+		"freshHookStages": 4,
+		"kills": 4,
+		"firstDownTime": 100
+	},
+	{
+		"tournament": "Summer Brawl 2026",
+		"map": "Wreckers' Yard",
+		"killer": "Unknown",
+		"generators": 5,
+		"totalHookStages": 3,
+		"freshHookStages": 2,
+		"kills": 0,
+		"firstDownTime": 209
+	},
+	{
+		"tournament": "Summer Brawl 2026",
+		"map": "Wreckers' Yard",
+		"killer": "Unknown",
+		"generators": 5,
+		"totalHookStages": 7,
+		"freshHookStages": 3,
+		"kills": 2,
+		"firstDownTime": 65
+	},
+	{
+		"tournament": "Summer Brawl 2026",
+		"map": "Hawkins National Laboratory",
+		"killer": "Shape",
+		"generators": 3,
+		"totalHookStages": 12,
+		"freshHookStages": 4,
+		"kills": 4,
+		"firstDownTime": 45
+	},
+	{
+		"tournament": "Summer Brawl 2026",
+		"map": "Hawkins National Laboratory",
+		"killer": "Shape",
+		"generators": 5,
+		"totalHookStages": 1,
+		"freshHookStages": 1,
+		"kills": 0,
+		"firstDownTime": 60
+	},
+	{
+		"tournament": "Summer Brawl 2026",
+		"map": "Dead Dawg Saloon",
+		"killer": "Nightmare",
+		"generators": 5,
+		"totalHookStages": 12,
+		"freshHookStages": 4,
+		"kills": 4,
+		"firstDownTime": 55
+	},
+	{
+		"tournament": "Summer Brawl 2026",
+		"map": "Dead Dawg Saloon",
+		"killer": "Nightmare",
+		"generators": 5,
+		"totalHookStages": 4,
+		"freshHookStages": 3,
+		"kills": 0,
+		"firstDownTime": 177
+	},
+	{
+		"tournament": "Summer Brawl 2026",
+		"map": "Wreckers' Yard",
+		"killer": "Huntress",
+		"generators": 5,
+		"totalHookStages": 6,
+		"freshHookStages": 2,
+		"kills": 2,
+		"firstDownTime": 105
+	},
+	{
+		"tournament": "Summer Brawl 2026",
+		"map": "Wreckers' Yard",
+		"killer": "Huntress",
+		"generators": 4,
+		"totalHookStages": 12,
+		"freshHookStages": 4,
+		"kills": 4,
+		"firstDownTime": 51
+	},
+	{
+		"tournament": "Summer Brawl 2026",
+		"map": "Wretched Shop",
+		"killer": "Doctor",
+		"generators": 5,
+		"totalHookStages": 6,
+		"freshHookStages": 4,
+		"kills": 1,
+		"firstDownTime": 171
+	},
+	{
+		"tournament": "Summer Brawl 2026",
+		"map": "Wretched Shop",
+		"killer": "Doctor",
+		"generators": 5,
+		"totalHookStages": 7,
+		"freshHookStages": 3,
+		"kills": 1,
+		"firstDownTime": 111
+	},
+	{
+		"tournament": "Summer Brawl 2026",
+		"map": "Suffocation Pit I",
+		"killer": "Blight",
+		"generators": 5,
+		"totalHookStages": 12,
+		"freshHookStages": 4,
+		"kills": 4,
+		"firstDownTime": 70
+	},
+	{
+		"tournament": "Summer Brawl 2026",
+		"map": "Suffocation Pit I",
+		"killer": "Blight",
+		"generators": 5,
+		"totalHookStages": 5,
+		"freshHookStages": 4,
+		"kills": 0,
+		"firstDownTime": 240
+	},
+	{
+		"tournament": "Summer Brawl 2026",
+		"map": "Dead Dawg Saloon",
+		"killer": "Lich",
+		"generators": 5,
+		"totalHookStages": 12,
+		"freshHookStages": 4,
+		"kills": 4,
+		"firstDownTime": 108
+	},
+	{
+		"tournament": "Summer Brawl 2026",
+		"map": "Dead Dawg Saloon",
+		"killer": "Lich",
+		"generators": 5,
+		"totalHookStages": 6,
+		"freshHookStages": 3,
+		"kills": 1,
+		"firstDownTime": 114
+	},
+	{
+		"tournament": "Summer Brawl 2026",
+		"map": "Suffocation Pit I",
+		"killer": "Blight",
+		"generators": 4,
+		"totalHookStages": 12,
+		"freshHookStages": 4,
+		"kills": 4,
+		"firstDownTime": 83
+	},
+	{
+		"tournament": "Summer Brawl 2026",
+		"map": "Suffocation Pit I",
+		"killer": "Blight",
+		"generators": 5,
+		"totalHookStages": 3,
+		"freshHookStages": 1,
+		"kills": 1,
+		"firstDownTime": 72
+	},
+	{
+		"tournament": "Summer Brawl 2026",
+		"map": "Suffocation Pit I",
+		"killer": "Plague",
+		"generators": 5,
+		"totalHookStages": 4,
+		"freshHookStages": 2,
+		"kills": 0,
+		"firstDownTime": 49
+	},
+	{
+		"tournament": "Summer Brawl 2026",
+		"map": "Suffocation Pit I",
+		"killer": "Plague",
+		"generators": 5,
+		"totalHookStages": 3,
+		"freshHookStages": 2,
+		"kills": 0,
+		"firstDownTime": 317
+	},
+	{
+		"tournament": "Summer Brawl 2026",
+		"map": "Dead Dawg Saloon",
+		"killer": "Lich",
+		"generators": 5,
+		"totalHookStages": 12,
+		"freshHookStages": 4,
+		"kills": 4,
+		"firstDownTime": 108
+	},
+	{
+		"tournament": "Summer Brawl 2026",
+		"map": "Dead Dawg Saloon",
+		"killer": "Lich",
+		"generators": 5,
+		"totalHookStages": 4,
+		"freshHookStages": 2,
+		"kills": 1,
+		"firstDownTime": 54
+	},
+	{
+		"tournament": "Summer Brawl 2026",
+		"map": "Coal Tower I",
+		"killer": "Nurse",
+		"generators": 5,
+		"totalHookStages": 6,
+		"freshHookStages": 2,
+		"kills": 2,
+		"firstDownTime": 114
+	},
+	{
+		"tournament": "Summer Brawl 2026",
+		"map": "Coal Tower I",
+		"killer": "Nurse",
+		"generators": 5,
+		"totalHookStages": 6,
+		"freshHookStages": 4,
+		"kills": 0,
+		"firstDownTime": 104
+	},
+	{
+		"tournament": "Summer Brawl 2026",
+		"map": "Dead Dawg Saloon",
+		"killer": "Wraith",
+		"generators": 3,
+		"totalHookStages": 12,
+		"freshHookStages": 4,
+		"kills": 4,
+		"firstDownTime": 111
+	},
+	{
+		"tournament": "Summer Brawl 2026",
+		"map": "Dead Dawg Saloon",
+		"killer": "Wraith",
+		"generators": 5,
+		"totalHookStages": 2,
+		"freshHookStages": 1,
+		"kills": 0,
+		"firstDownTime": 140
 	}
 ]
