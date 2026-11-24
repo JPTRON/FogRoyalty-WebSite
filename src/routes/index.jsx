@@ -38,9 +38,9 @@ function Home() {
 		},
 		{
 			title: "Community Size",
-			value: "90+ Members",
+			value: "100+ Members",
 			description: "Members across Steam and Discord.",
-			subText: "(Last updated 10 May 2026)",
+			subText: "(Last updated 24 November 2026)",
 			icon: <GroupsIcon sx={{ fontSize: 28 }} />,
 		},
 		{
@@ -100,7 +100,7 @@ function Home() {
 							color: "#ffffffbf",
 						}}
 					>
-						An invite-only Dead by Daylight group of friends who play together and host exclusive tournaments and events.
+						An invite-only Dead by Daylight community that plays together and hosts tournaments and events.
 					</Typography>
 				</Box>
 
